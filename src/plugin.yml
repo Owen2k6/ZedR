@@ -1,0 +1,17 @@
+name: ZedR
+main: me.goplex.zedr.Main
+version: 0.1
+authors: [Owen2k6, ekeleze]
+
+commands:
+  zedr:
+    description: ZedR Command # Just an example so we have the structure of the plugin yaml
+    usage: /<command>
+    aliases: [zr]
+
+
+
+permissions:
+    zedr.command:
+        description: Allows the player to use the ZedR command
+        default: true
