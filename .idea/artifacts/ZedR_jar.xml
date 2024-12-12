@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ZedR:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZedR_jar</output-path>
+    <root id="archive" name="ZedR.jar">
+      <element id="module-output" name="ZedR" />
+    </root>
+  </artifact>
+</component>

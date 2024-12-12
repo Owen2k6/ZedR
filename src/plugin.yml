@@ -8,8 +8,9 @@ commands:
     description: ZedR Command # Just an example so we have the structure of the plugin yaml
     usage: /<command>
     aliases: [zr]
-
-
+  makeafuckinnpc:
+    usage: /<command>
+    aliases: [mafn]
 
 permissions:
     zedr.command:
